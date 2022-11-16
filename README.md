@@ -1,2 +1,2 @@
-# Lista06
+# Funcionario
 Banco
